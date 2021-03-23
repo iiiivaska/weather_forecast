@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="sunset_text">Sunset</string>
+    <string name="wind_text">Wind</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="wind_side">Wind Side</string>
+    <string name="error">Error</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="language">en</string>
+    <string name="min_temp">Min:&#160;\n</string>
+    <string name="max_temp">Max:&#160;\n</string>
+    <string name="update_at">Update at:&#160;</string>
+    <string name="enter_your_place">Enter your Place</string>
+    <string name="city">City</string>
+    <string name="enter">Enter</string>
+    <string name="City">Kaluga</string>
+    <string name="forecast">Forecast</string>
+
+</resources>

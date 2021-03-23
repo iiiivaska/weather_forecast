@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="sunset_text">Закат</string>
+    <string name="wind_text">Ветер</string>
+    <string name="humidity_text">Осадки</string>
+    <string name="wind_side">Напр. ветра</string>
+    <string name="error">Ошибка</string>
+    <string name="pressure_text">Давление</string>
+    <string name="sunrise">Восход</string>
+    <string name="language">ru</string>
+    <string name="min_temp">Мин:&#160;\n</string>
+    <string name="max_temp">Макс:&#160;\n</string>
+    <string name="update_at">Обновленно:&#160;</string>
+    <string name="enter_your_place">Введите местоположение</string>
+    <string name="city">Город</string>
+    <string name="enter">Ввод</string>
+    <string name="City">Kaluga</string>
+    <string name="forecast">Прогноз</string>
+</resources>
